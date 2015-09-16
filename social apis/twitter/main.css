@@ -1,0 +1,12 @@
+a{
+ text-decoration: none;
+ font-size: 2em;
+ font-family: "comic sans ms";    
+}
+a.twitter-share-button{
+    display: inline-block;
+    padding 1px 3px 0 19px;
+    border: #ccc solid 1px;
+    border-radius: 2px;
+    background: #f8f8f8;
+}
